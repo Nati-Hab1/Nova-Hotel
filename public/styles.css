@@ -318,6 +318,9 @@ body {
 }
 
 @media (max-width: 600px) {
+  .header {
+    position: relative;
+  }
   .hero {
     flex-direction: column;
   }
